@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to top, white ,black);
+    background-size: cover;
+    height: 100vh;
+    
+}
+.ass {
+    background: linear-gradient(to right,black,orange, orange,orange, orange);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.shild{
+    border: 2px solid orange;
+    background: gray;
+}
